@@ -429,7 +429,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Thannimathan "
+        "quote": "We have countless memories together both at hostel and college.. But apart from that you are the most sweetest and good hearted person that I have ever seen in my life!! ❤️ You were there whenever I needed help and through my lows!! Thank you for sahikkaling my songs and chalis bestie!! Namukku pondicherry pokande 😉 Badly missing your chitchats, palli stories and puchams Puchist Mary!! 😏😏"
       },
       {
         "name": "Michelle",
@@ -678,7 +678,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Tech main "
+        "quote": "Tech main and thank you for the help during arts, Still remember bringing 12 juniors in your car.. 😂"
       },
       {
         "name": "Michelle",
@@ -931,7 +931,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Sleeping beauty "
+        "quote": "Sleeping beauty!! Always imagined how peacefully you could sleep in the first bench!! 😂.. And thanks for being a wonderful lab partner!! "
       },
       {
         "name": "Michelle",
@@ -1184,7 +1184,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Franco "
+        "quote": "A person with a pleasant smile 😄"
       },
       {
         "name": "Michelle",
@@ -1694,7 +1694,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "The one with attendance shortage in the early semesters. "
+        "quote": "The one with attendance shortage in the early semesters and the only person who answers in Maths class!! 😅"
       },
       {
         "name": "Michelle",
@@ -1947,7 +1947,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Rep "
+        "quote": "SI main!! 😍😍 One of the most responsible and patient person I've met in MEC!! Had a wonderful time working with you during Excel and IBeTo "
       },
       {
         "name": "Michelle",
@@ -2028,7 +2028,7 @@ quotes = [
     ]
   },
   {
-    "name": "Akshay P",
+    "name": "Akshay",
     "quotes": [
       {
         "name": "Adheep",
@@ -2449,7 +2449,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Content main "
+        "quote": "Miss the thallu we used to do during project presentation and always a huge fan of your content writing 😍"
       },
       {
         "name": "Michelle",
@@ -2702,7 +2702,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "JJ "
+        "quote": "Rose ne parichayapedande 😅"
       },
       {
         "name": "Michelle",
@@ -2959,7 +2959,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Paavam... Very innocent "
+        "quote": "Paavam... Very innocent!! Always love talking with you.. ❤️"
       },
       {
         "name": "Michelle",
@@ -3465,7 +3465,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Cutie 😍😍"
+        "quote": "Kandal bhayangara paavam and quiet ayi thonnumenkilum, you're a very bold person!! Michelle kannu thurichu nokkana kand enikk thanne pedi ayittundu 😅!! We became friends from 2nd year and have a lot of memories.. Can never forget the ambience work you gave me (tile art and stone art 😂) Also miss your chocolate cake 😋"
       },
       {
         "name": "Krishnaprasad",
@@ -3718,7 +3718,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Kp"
+        "quote": "A very helpful person!! "
       },
       {
         "name": "Michelle",
@@ -3971,7 +3971,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Techie "
+        "quote": "Techie and very helpful "
       },
       {
         "name": "Michelle",
@@ -4224,7 +4224,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Chala "
+        "quote": "Chala Midhu, enikku anthaksharikku tight competition tharunna eka aalu 😘😘"
       },
       {
         "name": "Michelle",
@@ -4998,10 +4998,6 @@ quotes = [
         "quote": "That saddist, psycho Linux guy.. ;)"
       },
       {
-        "name": "Adithya",
-        "quote": "I just wanna tell you how I'm feeling"
-      },
-      {
         "name": "Theres",
         "quote": "Tech geek. Wishing you a great future!! "
       },
@@ -5236,7 +5232,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Mimicry main "
+        "quote": "Mimicry and udayippu main!! Miss watching your drama rehearsals and asking you enikku pournami ne tharo!! 😂"
       },
       {
         "name": "Michelle",
@@ -5489,7 +5485,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Come on mec!! "
+        "quote": "Come on mec!! (P. S you have a lot of fans in my hostel) "
       },
       {
         "name": "Michelle",
@@ -5742,7 +5738,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Maaman"
+        "quote": "Maamante vasu ne sherikkum miss cheyyunund!! Thank you for all the help during arts!! 😘😘"
       },
       {
         "name": "Michelle",
@@ -6252,7 +6248,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Achayan 😂"
+        "quote": "Achayan 😂  and miss your thallu "
       },
       {
         "name": "Michelle",
@@ -6505,7 +6501,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Singer 😘"
+        "quote": "Sweet Singer 😘"
       },
       {
         "name": "Michelle",
@@ -7015,7 +7011,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "The artist "
+        "quote": "The artist , Huge fan of your drawings 😍 and miss getting cinema prints from you!!! "
       },
       {
         "name": "Michelle",
@@ -8027,7 +8023,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Dancer "
+        "quote": "Dancer  "
       },
       {
         "name": "Michelle",
@@ -8276,7 +8272,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Maanga"
+        "quote": "Thanks for all the help during arts 😘"
       },
       {
         "name": "Michelle",
@@ -8529,7 +8525,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Topper, teacher's pet"
+        "quote": "Topper, teacher's pet and thanks a lot for teaching me the rules of basketball!! And for all the help during oppana 😍"
       },
       {
         "name": "Michelle",
@@ -8786,7 +8782,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": ". "
+        "quote": "Very helpful "
       },
       {
         "name": "Michelle",
@@ -9039,7 +9035,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Seshan "
+        "quote": "IEEE main!! Than kannunapole oru aale alla!! 😅 Nalla udayippu annu but still thanks a lot for making me VC, for all the helps during project, sahikkaling my thallu, for all the movies 😍. Will never forget your akhilseshan.me link 😂, treats, veruppikaling, duranthams grp and the hope you give about exams postponement 😘😘"
       },
       {
         "name": "Michelle",
@@ -9288,7 +9284,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Ikka "
+        "quote": "Ml simham and thanks for being the IV coordinator.. "
       },
       {
         "name": "Michelle",
@@ -9529,7 +9525,7 @@ quotes = [
       },
       {
         "name": "Diya",
-        "quote": "girl, the many times I ve come to your house, video calls with sreepriya, some of the aligning thoughts, all were nice. now go to mumbai."
+        "quote": "girl, the many times I ve come at your home, video calls with sreepriya, some of the aligning thoughts, all were nice. now go to mumbai."
       },
       {
         "name": "Parvathy",
@@ -9794,7 +9790,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Chitti "
+        "quote": "Chitti 😘!! Miss our oppana practices "
       },
       {
         "name": "Michelle",
@@ -10300,7 +10296,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "The only person who listens to class "
+        "quote": "The only person who listens to class and a extremely helpful person. "
       },
       {
         "name": "Michelle",
@@ -10553,7 +10549,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Padipi "
+        "quote": "Padipi and love listening to your Kottayam slang 😍 "
       },
       {
         "name": "Michelle",
@@ -10806,7 +10802,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Chef 🍰"
+        "quote": "Chef 🍰,  enikk tharaam enn paranje onnum thanilla 😅"
       },
       {
         "name": "Michelle",
@@ -11059,7 +11055,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Sabash"
+        "quote": "Sabash, my classmate from 6 years "
       },
       {
         "name": "Michelle",
@@ -11818,7 +11814,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Padipi "
+        "quote": "Padipi and helpful "
       },
       {
         "name": "Michelle",
@@ -12324,7 +12320,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Sweetheart "
+        "quote": "Sweetheart 😍,  miss sitting with you on the same bench and sharing gossips, playing games and singing. Thanks for tolerating all my songs 😘. Badly missing our thallu during project presentations and our routine 3pm cold coffee at royals ❤️"
       },
       {
         "name": "Michelle",
@@ -12577,7 +12573,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Padipi "
+        "quote": "Padipi and miss coming with you to the staff room to ask about the important questions 😂"
       },
       {
         "name": "Michelle",
@@ -12830,7 +12826,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Padipi "
+        "quote": "Dilliwalli Padipi, very sweet and very adventurous (PS. IV times) "
       },
       {
         "name": "Michelle",
@@ -13340,7 +13336,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "All in all"
+        "quote": "All in all, psy SA is definitely incomplete without you... "
       },
       {
         "name": "Michelle",
@@ -13589,7 +13585,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "The one who used to be rarely seen in class during final semesters "
+        "quote": "The one who used to be rarely seen in class during final semesters and remember the late night MS during arts practice... "
       },
       {
         "name": "Michelle",
@@ -14095,7 +14091,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Someone who is very helpful "
+        "quote": "Someone who is there whenever you need help!! ❤️"
       },
       {
         "name": "Michelle",
@@ -14348,7 +14344,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Very helpful "
+        "quote": "Very helpful and a person whom I know from a long period of time!! I remember us pouring water on each other during entrance class!! The race for 2nd bench 😂 Stay the same genuine person!! 😍😍"
       },
       {
         "name": "Michelle",
@@ -14601,7 +14597,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Sed aakkalle "
+        "quote": "Sed aakkalle,  ente blue color bottle kandupidichu thannathu orkunundo during arts 😅"
       },
       {
         "name": "Michelle",
@@ -14854,7 +14850,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Energetic dancer 😍. Ps. IV "
+        "quote": "Energetic dancer 😍 Ps. IV.. Will always remember the fun we had during our oppana practice sessions 😘😘 Remember the names we kept for the steps 😂"
       },
       {
         "name": "Michelle",
@@ -15107,7 +15103,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Imbaraj"
+        "quote": "Imbaraj, the unique person in mec whom I will definitely miss!! Miss all your chalis, water bottles and expressions (Ps ninne njagalde hostelil kathakali enn annu vilikkane) "
       },
       {
         "name": "Michelle",
@@ -15360,7 +15356,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Aww 😘"
+        "quote": "Aww 😘 you are a sweetheart and a very friendly person!! "
       },
       {
         "name": "Michelle",
@@ -16123,7 +16119,7 @@ quotes = [
       },
       {
         "name": "Nikita",
-        "quote": "Latecomer"
+        "quote": "Latecomer 😂!! I miss chatting to you late-nights and remember all the thallu we used to do during project presentations 😍"
       },
       {
         "name": "Michelle",
@@ -16207,16 +16203,72 @@ quotes = [
     "name": "Marzooq",
     "quotes": [
       {
+        "name": "Adheep",
+        "quote": " "
+      },
+      {
+        "name": "Joel",
+        "quote": " "
+      },
+      {
+        "name": "Jos",
+        "quote": " "
+      },
+      {
+        "name": "Adrian",
+        "quote": " "
+      },
+      {
+        "name": "Meenakshi",
+        "quote": " "
+      },
+      {
+        "name": "Gayathri",
+        "quote": " "
+      },
+      {
+        "name": "Aravind",
+        "quote": " "
+      },
+      {
+        "name": "Shahul",
+        "quote": " "
+      },
+      {
+        "name": "Kuriakose",
+        "quote": " "
+      },
+      {
+        "name": "Ancy",
+        "quote": " "
+      },
+      {
+        "name": "Sneha",
+        "quote": " "
+      },
+      {
         "name": "Midhun",
         "quote": "You left too soon bitch.(Good for you). Kaanenam aduth thanne."
+      },
+      {
+        "name": "Shawn",
+        "quote": " "
       },
       {
         "name": "Nithin",
         "quote": "Creative af"
       },
       {
+        "name": "Renjith",
+        "quote": " "
+      },
+      {
         "name": "Shruti",
         "quote": "Zooooooq! I miss u😭 hopefully we'll meet soooooo♥️ ( PS - I know u hate social media, reading messages... Basically anything virtual.. so I'll tell u what I think of you, whn we meet in person😁)"
+      },
+      {
+        "name": "Noel",
+        "quote": " "
       },
       {
         "name": "Bindya",
@@ -16225,6 +16277,10 @@ quotes = [
       {
         "name": "Leon",
         "quote": "counter strike"
+      },
+      {
+        "name": "Nihal",
+        "quote": " "
       },
       {
         "name": "Steve",
@@ -16255,12 +16311,52 @@ quotes = [
         "quote": "Zook"
       },
       {
+        "name": "Tino",
+        "quote": " "
+      },
+      {
+        "name": "Jithin",
+        "quote": " "
+      },
+      {
+        "name": "Hariraj",
+        "quote": " "
+      },
+      {
+        "name": "Sophus",
+        "quote": " "
+      },
+      {
+        "name": "Jisha",
+        "quote": " "
+      },
+      {
         "name": "Francis",
         "quote": "Artist"
       },
       {
+        "name": "Aparna",
+        "quote": " "
+      },
+      {
+        "name": "Sreekumar",
+        "quote": " "
+      },
+      {
+        "name": "Adarsh S",
+        "quote": " "
+      },
+      {
+        "name": "Bharath",
+        "quote": " "
+      },
+      {
         "name": "Adarsh R",
         "quote": "friendly and nice person"
+      },
+      {
+        "name": "Diya",
+        "quote": " "
       },
       {
         "name": "Anusree",
@@ -16279,6 +16375,14 @@ quotes = [
         "quote": "Someone who left early "
       },
       {
+        "name": "Michelle",
+        "quote": " "
+      },
+      {
+        "name": "Krishnaprasad",
+        "quote": " "
+      },
+      {
         "name": "Jimmy",
         "quote": ":)"
       },
@@ -16287,12 +16391,20 @@ quotes = [
         "quote": "When he escapes KTU long before everyone realizes the trap they're in: * I'M FOUR PARALLEL UNIVERSES AHEAD OF YOU *"
       },
       {
+        "name": "Theres",
+        "quote": " "
+      },
+      {
         "name": "Kurian",
         "quote": " Bonevenjoure(nallathe vartte). Appreciate the life choice you took from dropping Enginneering."
       },
       {
         "name": "Ashwin",
         "quote": "The creative guy who btw left us for a better life at NID."
+      },
+      {
+        "name": "Bhairavi",
+        "quote": " "
       },
       {
         "name": "Midu",
@@ -16307,8 +16419,24 @@ quotes = [
         "quote": " May all your dreams come true"
       },
       {
+        "name": "Navya",
+        "quote": " "
+      },
+      {
+        "name": "Devasish",
+        "quote": " "
+      },
+      {
+        "name": "Ashik",
+        "quote": " "
+      },
+      {
         "name": "Amruth",
         "quote": "I guess I could say you left before we could hit it off? But from what I've seen and heard of you, you're a sweet, fun and amiable... And of course it's great that you made the decision to pursue what you knew your heart wanted. I wish you all the best in life and hope you find what your looking for... Stay awesome dude!"
+      },
+      {
+        "name": "Akhil",
+        "quote": " "
       },
       {
         "name": "Sreelakshmi",
@@ -16332,8 +16460,48 @@ quotes = [
     "name": "Akshay A",
     "quotes": [
       {
+        "name": "Adheep",
+        "quote": " "
+      },
+      {
+        "name": "Joel",
+        "quote": " "
+      },
+      {
+        "name": "Jos",
+        "quote": " "
+      },
+      {
+        "name": "Adrian",
+        "quote": " "
+      },
+      {
+        "name": "Meenakshi",
+        "quote": " "
+      },
+      {
+        "name": "Gayathri",
+        "quote": " "
+      },
+      {
+        "name": "Aravind",
+        "quote": " "
+      },
+      {
+        "name": "Shahul",
+        "quote": " "
+      },
+      {
         "name": "Kuriakose",
         "quote": "ninte youtube channel oke poli aada"
+      },
+      {
+        "name": "Ancy",
+        "quote": " "
+      },
+      {
+        "name": "Sneha",
+        "quote": " "
       },
       {
         "name": "Midhun",
@@ -16344,8 +16512,20 @@ quotes = [
         "quote": "Has integrity and direction."
       },
       {
+        "name": "Nithin",
+        "quote": " "
+      },
+      {
+        "name": "Renjith",
+        "quote": " "
+      },
+      {
         "name": "Shruti",
         "quote": "🦋🦋🦋 - this is soooo you! "
+      },
+      {
+        "name": "Noel",
+        "quote": " "
       },
       {
         "name": "Bindya",
@@ -16354,6 +16534,10 @@ quotes = [
       {
         "name": "Leon",
         "quote": "Thalan"
+      },
+      {
+        "name": "Nihal",
+        "quote": " "
       },
       {
         "name": "Steve",
@@ -16388,6 +16572,18 @@ quotes = [
         "quote": "all the best muthe"
       },
       {
+        "name": "Hariraj",
+        "quote": " "
+      },
+      {
+        "name": "Sophus",
+        "quote": " "
+      },
+      {
+        "name": "Jisha",
+        "quote": " "
+      },
+      {
         "name": "Francis",
         "quote": "Akosottu"
       },
@@ -16400,12 +16596,20 @@ quotes = [
         "quote": "180 km/h il odana cycle ipolum undo da"
       },
       {
+        "name": "Adarsh S",
+        "quote": " "
+      },
+      {
         "name": "Bharath",
         "quote": "Hello AAA, miss you bruh"
       },
       {
         "name": "Adarsh R",
         "quote": "friendly and nice person"
+      },
+      {
+        "name": "Diya",
+        "quote": " "
       },
       {
         "name": "Anusree",
@@ -16424,12 +16628,24 @@ quotes = [
         "quote": "Butterfly "
       },
       {
+        "name": "Michelle",
+        "quote": " "
+      },
+      {
+        "name": "Krishnaprasad",
+        "quote": " "
+      },
+      {
         "name": "Jimmy",
         "quote": "The specialist is thallu ;)"
       },
       {
         "name": "Adithya",
         "quote": "*rubs magical lamp* I want a cycle that goes 180MPH.\nThe Genie: Your wish is ... തള്ള്"
+      },
+      {
+        "name": "Theres",
+        "quote": " "
       },
       {
         "name": "Kurian",
@@ -16464,6 +16680,10 @@ quotes = [
         "quote": "\"Now you're just somebody that I used to know\"-Gotye"
       },
       {
+        "name": "Ashik",
+        "quote": " "
+      },
+      {
         "name": "Amruth",
         "quote": "It's too bad we didn't get to know each other at all to be honest. However things may be, hope you're doing okay. All the best!"
       },
@@ -16474,6 +16694,10 @@ quotes = [
       {
         "name": "Sreelakshmi",
         "quote": "All the best Akshay."
+      },
+      {
+        "name": "Asish",
+        "quote": " "
       },
       {
         "name": "Sarah",
